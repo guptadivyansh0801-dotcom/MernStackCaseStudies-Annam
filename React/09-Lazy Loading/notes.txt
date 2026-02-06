@@ -1,0 +1,16 @@
+What I Built:
+- React.lazy for components
+- Suspense with fallback UI
+- Route-based code splitting
+- Dynamic imports
+
+Key Learnings:
+- Lazy loading reduces bundle size
+- Suspense shows loading state
+- Split by routes or features
+- Improves initial load time
+
+Challenges Faced:
+- Suspense placement issues
+- Error boundaries needed
+- Testing lazy components

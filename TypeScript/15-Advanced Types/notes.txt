@@ -1,0 +1,15 @@
+What I Built:
+- Union type InstructorOrAdmin
+- ReadonlyAssignment using Readonly
+- StatsAsStrings using mapped types
+
+Key Learnings:
+- Union type: A | B means either
+- Intersection: A & B means both
+- Readonly makes immutable
+- Mapped types transform shapes
+
+Challenges Faced:
+- Mapped type syntax [K in keyof]
+- Understanding conditional types
+- When to use utility types

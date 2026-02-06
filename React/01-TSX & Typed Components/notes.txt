@@ -1,0 +1,16 @@
+What I Built:
+- PortfolioSummary functional component
+- AssetEditor class component with state
+- Typed props using interface
+- Form with controlled inputs
+
+Key Learnings:
+- Props need interface definitions
+- FC<Props> for functional components
+- State in class uses this.state
+- onChange updates state values
+
+Challenges Faced:
+- TypeScript with React was new
+- Class component syntax
+- Handling form inputs with types

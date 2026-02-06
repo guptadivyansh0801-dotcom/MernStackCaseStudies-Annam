@@ -1,0 +1,15 @@
+What I Built:
+- Function to record quiz answers of any type
+- Object to store multiple answers
+- Tested with string, number, and array values
+
+Key Learnings:
+- any type accepts any value
+- Useful when type is not known beforehand
+- Loses type safety benefits
+- Should avoid using too much
+
+Challenges Faced:
+- Tempted to use any everywhere
+- Lost autocomplete when using any
+- Had to be careful with type checking

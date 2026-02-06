@@ -1,0 +1,18 @@
+What I Built:
+- displayMember with optional parameter
+- calculateFines with rest parameters
+- membershipFee with default discount
+- Arrow function greetings
+- Recursive factorial function
+
+Key Learnings:
+- Optional params use ? symbol
+- Rest params use ... for multiple args
+- Default params have = value
+- Arrow functions are shorter
+- Recursion calls itself
+
+Challenges Faced:
+- Optional must come after required params
+- Forgot base case in recursion
+- reduce syntax was tricky

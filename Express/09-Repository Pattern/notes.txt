@@ -1,0 +1,16 @@
+What I Built:
+- Repository layer for data access
+- Abstract database operations
+- Easy to swap databases
+- Clean service layer
+
+Key Learnings:
+- Repository hides data source
+- Controller uses repositories
+- Easier testing with mocks
+- Database can change easily
+
+Challenges Faced:
+- Abstraction level decisions
+- Interface design
+- When to use repositories

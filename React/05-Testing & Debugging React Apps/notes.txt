@@ -1,0 +1,16 @@
+What I Built:
+- CommentBox component with test
+- Test using React Testing Library
+- Mock function for callback
+- ESLint rule for no console.log
+
+Key Learnings:
+- render() mounts component
+- screen.getBy finds elements
+- fireEvent simulates clicks
+- jest.fn() creates mock functions
+
+Challenges Faced:
+- Setting up test environment
+- Query methods (getBy vs findBy)
+- Async testing concepts

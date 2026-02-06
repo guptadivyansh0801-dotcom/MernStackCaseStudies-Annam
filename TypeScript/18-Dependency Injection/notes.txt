@@ -1,0 +1,15 @@
+What I Built:
+- Logger and DataService interfaces
+- Application with injected dependencies
+- Swapped implementations for testing
+
+Key Learnings:
+- DI: pass dependencies from outside
+- Makes testing easier
+- Can swap implementations
+- Loose coupling is good
+
+Challenges Faced:
+- Understanding why DI is useful
+- Constructor injection syntax
+- Creating mock implementations

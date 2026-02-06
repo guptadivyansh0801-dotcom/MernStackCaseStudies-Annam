@@ -1,0 +1,16 @@
+What I Built:
+- useMemo for expensive calculations
+- useCallback for stable functions
+- React.memo for component caching
+- Performance improvements
+
+Key Learnings:
+- useMemo caches computed values
+- useCallback caches functions
+- React.memo skips re-renders
+- Dependency array is important
+
+Challenges Faced:
+- When to use memoization
+- Dependency array mistakes
+- Over-optimization issues

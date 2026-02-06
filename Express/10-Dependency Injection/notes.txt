@@ -1,0 +1,16 @@
+What I Built:
+- DI container for Express
+- Service registration
+- Constructor injection
+- Testable architecture
+
+Key Learnings:
+- Inject dependencies externally
+- Easier to test with mocks
+- Container manages instances
+- Loose coupling achieved
+
+Challenges Faced:
+- Setting up DI container
+- Circular dependencies
+- Lifetime management

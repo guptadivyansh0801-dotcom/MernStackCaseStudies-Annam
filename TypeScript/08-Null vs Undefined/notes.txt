@@ -1,0 +1,16 @@
+What I Built:
+- Profile type with nullable bio
+- Optional avatarUrl property
+- showProfile function with fallbacks
+
+Key Learnings:
+- null means intentionally empty
+- undefined means not set
+- ? makes property optional
+- | null allows null values
+- ?? gives default when null/undefined
+
+Challenges Faced:
+- When to use null vs undefined
+- Optional vs nullable difference
+- Remembering ?? vs || operator

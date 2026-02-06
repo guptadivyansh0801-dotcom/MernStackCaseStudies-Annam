@@ -1,0 +1,16 @@
+What I Built:
+- Type aliases for OrderStatus, Customer
+- Generic Container type
+- Function type alias for Logger
+- ProcessOrder function type
+
+Key Learnings:
+- type keyword creates alias
+- Aliases make code cleaner
+- Can alias primitives, objects, functions
+- Generics work with type aliases
+
+Challenges Faced:
+- Generic syntax <T> was confusing
+- Function type syntax arrow vs regular
+- When to use alias vs interface

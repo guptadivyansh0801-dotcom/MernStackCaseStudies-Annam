@@ -1,0 +1,16 @@
+What I Built:
+- Advanced Zustand patterns
+- Persist and devtools middleware
+- Selective subscriptions
+- Performance optimizations
+
+Key Learnings:
+- Middleware enhances stores
+- persist saves to localStorage
+- devtools shows in React DevTools
+- Shallow selectors reduce renders
+
+Challenges Faced:
+- Middleware composition order
+- Understanding shallow comparison
+- Debugging with devtools

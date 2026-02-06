@@ -1,0 +1,15 @@
+What I Built:
+- FeedbackBox generic class
+- getFirstItem generic function
+- Used with strings and numbers
+
+Key Learnings:
+- Generics use <T> placeholder
+- T is replaced with actual type
+- Same code works for any type
+- Type safety is preserved
+
+Challenges Faced:
+- <T> syntax was confusing
+- Understanding when to use generics
+- Specifying type when calling function

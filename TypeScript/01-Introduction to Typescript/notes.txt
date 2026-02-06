@@ -1,0 +1,15 @@
+What I Built:
+- Created variables with type annotations
+- Printed personalized greeting with my name
+- Declared age variable and displayed it
+
+Key Learnings:
+- TypeScript adds types to JavaScript
+- Use : string, : number to specify types
+- Type errors show at compile time not runtime
+- let and const work same as JS but with types
+
+Challenges Faced:
+- Initially forgot the colon before type
+- Got error when tried assigning number to string variable
+- Had to install TypeScript compiler first

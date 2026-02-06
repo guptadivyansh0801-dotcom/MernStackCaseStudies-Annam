@@ -1,0 +1,16 @@
+What I Built:
+- Aggregation pipeline for analytics
+- $match, $group, $project stages
+- Average rating per genre
+- Filter by total views > 10000
+
+Key Learnings:
+- Aggregation is like data pipeline
+- $match filters documents
+- $group combines by field
+- $project shapes output
+
+Challenges Faced:
+- Pipeline stage order matters
+- $round for decimal precision
+- Filtering after grouping

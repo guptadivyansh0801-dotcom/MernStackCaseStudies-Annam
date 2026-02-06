@@ -1,0 +1,15 @@
+What I Built:
+- describePerson with optional age
+- calculatePrice with default 10% discount
+- Test calls with different arguments
+
+Key Learnings:
+- Optional: may not be passed
+- Default: has fallback value
+- Cannot combine ? and = together
+- typeof checks for undefined
+
+Challenges Faced:
+- Tried using ? and = together
+- Order of parameters matters
+- Handling undefined in function body

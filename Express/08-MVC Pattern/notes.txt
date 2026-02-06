@@ -1,0 +1,16 @@
+What I Built:
+- Model-View-Controller structure
+- Separate folders for each layer
+- Data models for entities
+- Views for response formatting
+
+Key Learnings:
+- Model: data and database
+- View: presentation/response
+- Controller: business logic
+- Clear separation of concerns
+
+Challenges Faced:
+- Deciding file structure
+- Where to put validation
+- Connecting layers together

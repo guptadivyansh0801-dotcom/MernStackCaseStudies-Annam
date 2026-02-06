@@ -1,0 +1,16 @@
+What I Built:
+- Webpack bundle analyzer setup
+- Identified large dependencies
+- Optimized bundle size
+- Tree shaking unused code
+
+Key Learnings:
+- Bundle analyzer visualizes size
+- Large packages hurt performance
+- Import only what you need
+- Tree shaking removes dead code
+
+Challenges Faced:
+- Setting up analyzer
+- Understanding the treemap
+- Finding alternative packages

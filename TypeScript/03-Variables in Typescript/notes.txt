@@ -1,0 +1,15 @@
+What I Built:
+- Variables for city, temperature, isRaining
+- weatherReport function with multiple parameters
+- Tested type inference feature
+
+Key Learnings:
+- TypeScript can infer types automatically
+- Don't always need to write type explicitly
+- Template literals work with types
+- Function parameters need types
+
+Challenges Faced:
+- Confused between explicit and inferred typing
+- Forgot backticks for template strings
+- Parameter order matters in function calls

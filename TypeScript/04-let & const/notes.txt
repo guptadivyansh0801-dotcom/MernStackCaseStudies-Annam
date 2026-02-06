@@ -1,0 +1,15 @@
+What I Built:
+- Demonstrated block scope with let
+- Created constant for country
+- Showed variable shadowing in blocks
+
+Key Learnings:
+- let has block scope unlike var
+- const cannot be reassigned
+- Variables inside {} are separate from outside
+- const is preferred for values that don't change
+
+Challenges Faced:
+- Initially confused block scope with function scope
+- Tried to reassign const and got error
+- Understanding shadowing took some time

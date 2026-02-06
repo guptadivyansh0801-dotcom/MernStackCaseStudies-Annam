@@ -1,0 +1,15 @@
+What I Built:
+- Simple IoC Container class
+- Register and resolve methods
+- NewsAggregator using container
+
+Key Learnings:
+- IoC: framework controls object creation
+- Container manages dependencies
+- Register services by name
+- Resolve retrieves instances
+
+Challenges Faced:
+- Difference between DI and IoC
+- Container implementation details
+- When to use containers

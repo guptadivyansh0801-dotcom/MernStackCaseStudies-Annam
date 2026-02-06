@@ -1,0 +1,16 @@
+What I Built:
+- Transaction processing function
+- Used number, string, boolean types
+- Handled undefined with nullish coalescing
+
+Key Learnings:
+- number for all numeric values
+- string for text
+- boolean for true/false
+- undefined means not assigned
+- ?? operator provides fallback value
+
+Challenges Faced:
+- Difference between null and undefined was confusing
+- Had to learn ?? operator
+- void vs undefined difference

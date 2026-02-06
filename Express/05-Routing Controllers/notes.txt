@@ -1,0 +1,16 @@
+What I Built:
+- Controller classes for routes
+- Separated logic from routes
+- Clean route definitions
+- Organized code structure
+
+Key Learnings:
+- Controllers handle business logic
+- Routes just define endpoints
+- Easier to test controllers
+- Better code organization
+
+Challenges Faced:
+- Binding this in controllers
+- Async error handling
+- Choosing controller structure

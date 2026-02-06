@@ -1,0 +1,16 @@
+What I Built:
+- Request and response handling
+- req.body, req.params, req.query
+- res.send, res.json, res.status
+- Headers and cookies
+
+Key Learnings:
+- req has incoming data
+- res sends response back
+- Body needs middleware to parse
+- Can set custom headers
+
+Challenges Faced:
+- Body parser middleware setup
+- Query vs params difference
+- Setting response headers

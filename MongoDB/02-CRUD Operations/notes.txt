@@ -1,0 +1,16 @@
+What I Built:
+- insertOne for new menu item
+- find with projection
+- updateOne with $set and $push
+- deleteOne by name
+
+Key Learnings:
+- CRUD: Create Read Update Delete
+- insertOne returns insertedId
+- find second param is projection
+- $push adds to array
+
+Challenges Faced:
+- Query filter syntax
+- Projection includes/excludes
+- Update operators like $set

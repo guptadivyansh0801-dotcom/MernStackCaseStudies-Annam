@@ -1,0 +1,16 @@
+What I Built:
+- Route with multiple params
+- DoctorPatientDetails component
+- Typed params interface
+- Link navigation between pages
+
+Key Learnings:
+- useParams extracts URL params
+- Params are always strings
+- Need to validate and convert
+- BrowserRouter wraps app
+
+Challenges Faced:
+- Type assertion for useParams
+- Handling missing params
+- Converting string to number

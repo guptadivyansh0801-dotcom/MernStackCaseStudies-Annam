@@ -1,0 +1,16 @@
+What I Built:
+- Variable for favorite fruit with console output
+- Function that doubles a number
+- Person class with sayHello method
+- Added single and multi-line comments
+
+Key Learnings:
+- Functions need return type annotation
+- void means function returns nothing
+- Classes use constructor for initialization
+- Comments work same as JavaScript
+
+Challenges Faced:
+- Forgot to add void return type initially
+- class syntax was new to me
+- Had to remember to call new before class

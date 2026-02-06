@@ -1,0 +1,16 @@
+What I Built:
+- Quiz class with public, private, protected
+- TimedQuiz extending Quiz
+- Abstract Content class
+
+Key Learnings:
+- public: accessible everywhere
+- private: only in same class
+- protected: class and subclasses
+- readonly: set once only
+- abstract: must be implemented
+
+Challenges Faced:
+- Accessing private from outside
+- extends vs implements difference
+- Abstract class vs interface

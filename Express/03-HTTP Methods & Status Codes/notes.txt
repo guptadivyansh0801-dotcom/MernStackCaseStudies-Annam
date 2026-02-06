@@ -1,0 +1,17 @@
+What I Built:
+- Full CRUD routes for products
+- GET, POST, PATCH, DELETE methods
+- Status codes 200, 201, 400, 404
+- Input validation
+
+Key Learnings:
+- GET retrieves data
+- POST creates new resource
+- PATCH updates partially
+- DELETE removes resource
+- Status codes show result
+
+Challenges Faced:
+- Remembering status codes
+- req.body vs req.params
+- Validation before processing

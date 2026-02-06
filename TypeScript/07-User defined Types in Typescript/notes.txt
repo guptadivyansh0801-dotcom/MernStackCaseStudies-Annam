@@ -1,0 +1,16 @@
+What I Built:
+- Enum for staff roles (Doctor, Nurse, Admin)
+- Interface for Staff with id, name, role
+- Array of staff members
+- Function to print staff summary
+
+Key Learnings:
+- enum groups related constants
+- interface defines object structure
+- Arrays can have typed elements
+- Interfaces make code more readable
+
+Challenges Faced:
+- enum syntax was new
+- interface vs type alias confusion
+- Accessing enum value by name

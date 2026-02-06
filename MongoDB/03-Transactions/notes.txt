@@ -1,0 +1,16 @@
+What I Built:
+- Refund payment transaction
+- Session and transaction handling
+- Multiple collection updates
+- Rollback on failure
+
+Key Learnings:
+- Transactions ensure ACID
+- startSession begins transaction
+- commitTransaction saves changes
+- abortTransaction rolls back
+
+Challenges Faced:
+- Session must be passed everywhere
+- try/catch/finally pattern
+- Business logic validation

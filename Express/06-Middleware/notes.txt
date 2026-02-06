@@ -1,0 +1,16 @@
+What I Built:
+- Custom middleware functions
+- Logger middleware
+- Authentication middleware
+- Error handling middleware
+
+Key Learnings:
+- Middleware runs before routes
+- next() passes to next handler
+- Order of middleware matters
+- Can modify req and res
+
+Challenges Faced:
+- Forgetting to call next()
+- Middleware order issues
+- Error middleware signature

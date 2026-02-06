@@ -1,0 +1,16 @@
+What I Built:
+- Separate route file for contact
+- Router middleware usage
+- Mount router in main app
+- Organized folder structure
+
+Key Learnings:
+- express.Router() creates router
+- module.exports shares code
+- app.use() mounts router
+- routes/ folder for endpoints
+
+Challenges Faced:
+- Require path was wrong
+- Router vs app difference
+- File organization decisions

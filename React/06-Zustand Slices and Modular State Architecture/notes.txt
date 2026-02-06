@@ -1,0 +1,16 @@
+What I Built:
+- Notifications slice for Zustand
+- Slice pattern for modular state
+- Combined slices in main store
+- NotificationsPanel using slice
+
+Key Learnings:
+- Slices separate concerns
+- Each slice has own state/actions
+- Combine with spread operator
+- Devtools help debugging
+
+Challenges Faced:
+- Slice function signature
+- Combining multiple slices
+- TypeScript with set/get

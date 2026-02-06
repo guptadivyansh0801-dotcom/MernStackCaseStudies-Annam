@@ -1,0 +1,16 @@
+What I Built:
+- Zustand store for notifications
+- Actions: add, markAsRead, clear
+- NotificationList component
+- Filter for unread notifications
+
+Key Learnings:
+- Zustand is simpler than Redux
+- create() makes the store
+- set() updates state
+- Selectors prevent re-renders
+
+Challenges Faced:
+- Zustand syntax was new
+- Updating nested state
+- Using selectors properly

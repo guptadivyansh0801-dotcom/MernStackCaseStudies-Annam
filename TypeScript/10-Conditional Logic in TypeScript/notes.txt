@@ -1,0 +1,16 @@
+What I Built:
+- checkSign function for positive/negative/zero
+- evenOrOdd function
+- getGrade function with if-else-if
+- provideFeedback using switch statement
+
+Key Learnings:
+- if/else works same as JavaScript
+- switch needs break after each case
+- Can chain multiple conditions with else if
+- Return exits function early
+
+Challenges Faced:
+- Forgot break in switch cases
+- Order of conditions matters
+- Remembering === vs ==

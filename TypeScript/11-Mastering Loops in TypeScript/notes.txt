@@ -1,0 +1,18 @@
+What I Built:
+- Transaction counter using for loop
+- while(true) with break condition
+- do-while for processing queue
+- for-in to reset inventory
+- Reverse order display with for loop
+
+Key Learnings:
+- for loop for known iterations
+- while when count unknown
+- do-while runs at least once
+- for-in for object keys
+- for-of for array values
+
+Challenges Faced:
+- Almost created infinite loop
+- for-in returns string keys not numbers
+- Remembering to increment counter

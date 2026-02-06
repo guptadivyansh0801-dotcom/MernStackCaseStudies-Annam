@@ -1,0 +1,16 @@
+What I Built:
+- Input validation with Joi/express-validator
+- Schema definitions
+- Error messages for invalid input
+- Sanitization of data
+
+Key Learnings:
+- Always validate user input
+- Schema defines expected shape
+- Return clear error messages
+- Sanitize to prevent attacks
+
+Challenges Faced:
+- Writing validation schemas
+- Custom error messages
+- Validation vs sanitization

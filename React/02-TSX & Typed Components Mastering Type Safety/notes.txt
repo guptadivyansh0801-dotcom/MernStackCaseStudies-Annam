@@ -1,0 +1,16 @@
+What I Built:
+- BudgetTracker with useReducer
+- Typed income and expense entries
+- Balance calculation with currency rates
+- Actions for add income/expense
+
+Key Learnings:
+- useReducer for complex state
+- Actions should be typed
+- Reducer returns new state
+- Prevent negative balance in reducer
+
+Challenges Faced:
+- Reducer action types syntax
+- dispatch function usage
+- State immutability concept

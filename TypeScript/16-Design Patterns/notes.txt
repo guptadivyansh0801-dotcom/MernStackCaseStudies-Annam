@@ -1,0 +1,15 @@
+What I Built:
+- Singleton ConfigManager class
+- Factory for notifications
+- Observer pattern with EventEmitter
+
+Key Learnings:
+- Singleton: only one instance
+- Factory: creates objects dynamically
+- Observer: subscribe to events
+- Patterns solve common problems
+
+Challenges Faced:
+- Private constructor was new concept
+- Static getInstance method
+- Managing multiple observers

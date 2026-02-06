@@ -1,0 +1,16 @@
+What I Built:
+- Basic Express server
+- Routes for / and /events
+- /contact endpoint returning JSON
+- Server listening on port 3000
+
+Key Learnings:
+- Express simplifies Node.js
+- app.get handles GET requests
+- res.send for text response
+- res.json for JSON data
+
+Challenges Faced:
+- Installing Node.js first
+- Running server with node
+- Port already in use error
